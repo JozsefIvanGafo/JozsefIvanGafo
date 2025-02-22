@@ -23,15 +23,15 @@
 <p><a href="https://ko-fi.com/jozsef"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jozsef" /></a></p><br><br>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jozsefivangafo&show_icons=true&locale=en&layout=compact" alt="jozsefivangafo" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jozsefivangafo&show_icons=true&locale=en" alt="jozsefivangafo" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jozsefivangafo" alt="jozsefivangafo" />
 </p>
 
