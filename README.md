@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**Hertz-MonteCarlo Simulator**](https://github.com/JozsefIvanGafo/Calculo-de-la-Rentabilidad)
 
-- 🌱 I’m currently learning **Distributed systems, DNS**
+- 🌱 I’m currently learning **Distributed systems and  DNS**
 
 - 💬 Ask me about **Python,**
 
