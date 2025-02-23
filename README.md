@@ -7,15 +7,17 @@
 
 ###
 <div>
-  <img height="200" src="assets/weiwuxian.gif" style="float: left; margin-right: 20px;" />
-  <p>
+<div style="display: flex; align-items: center;">
+  <img height="200" src="assets/weiwuxian.gif" />
+  <div style="margin-left: 20px;">
     - 🔭 I’m currently working on <a href="https://github.com/JozsefIvanGafo/Calculo-de-la-Rentabilidad"><b>Hertz-MonteCarlo Simulator</b></a><br><br>
     - 🌱 I’m currently learning <b>Distributed systems, DNS</b><br><br>
     - 💬 Ask me about <b>Python</b><br><br>
     - 📫 How to reach me <b>jozivga23@gmail.com</b><br><br>
     - 📄 Know about my experiences <a href="https://flowcv.com/resume/41ebp25w97">here</a>
-  </p>
+  </div>
 </div>
+
 
 
 
