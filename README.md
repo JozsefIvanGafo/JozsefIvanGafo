@@ -8,7 +8,6 @@
 ###
 <div>
 <div style="display: flex; align-items: center;">
-  <img height="200" src="assets/weiwuxian.gif" />
   <div style="margin-left: 20px;">
     - 🔭 I’m currently working on <a href="https://github.com/JozsefIvanGafo/Calculo-de-la-Rentabilidad"><b>Hertz-MonteCarlo Simulator</b></a><br><br>
     - 🌱 I’m currently learning <b>Distributed systems, DNS</b><br><br>
