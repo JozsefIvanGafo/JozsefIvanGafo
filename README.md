@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm József Iván Gafo</h1>
 <h3 align="center">A passionate future computer science engineer from Spain and Hungary</h3>
 
-- 🔭 I’m currently working on [**Hertz-MonteCarlo Simulator**](https://github.com/JozsefIvanGafo/Calculo-de-la-Rentabilidad)
+- 🔭 I’m currently working on [**Hertz-MonteCarlo Simulator**](https://github.com/JozsefIvanGafo/Calculo-de-la-Rentabilidad) and a [**Discord Bot**](https://github.com/JozsefIvanGafo/DiscordBot)
 
 - 🌱 I’m currently learning **Distributed systems and  DNS**
 
