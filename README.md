@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python,**
 
-- 📫 How to reach me **jozivga23@gmail.com**
+- 📫 How to reach me **github@jozsi.mozmail.com**
 
 - 📄 Know about my experiences [**My curriculum vitae**](https://flowcv.com/resume/41ebp25w97)
 
