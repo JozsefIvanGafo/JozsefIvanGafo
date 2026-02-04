@@ -64,14 +64,6 @@
 </div>
 
 ###
-<h3 align="left">🎧 What I'm Listening To:</h3>
-<div align="center">
-  <a href="https://open.spotify.com/user/laestrelladelamuerte86">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=laestrelladelamuerte86&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <h3 align="left">Support:</h3>
 <div align="left">
